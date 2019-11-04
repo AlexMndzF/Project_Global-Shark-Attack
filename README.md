@@ -49,4 +49,4 @@ Verde => Fatals
 <p align="center"> <img  src="https://github.com/AlexMndzF/Project_Global-Shark-Attack/blob/master/src/Global%20shark_Totals.png"></p>
 
 ## Hipótesis:
-Al finalizar el análisis con los datos obtenidos mi hipótesis se desmiente, dejando claro que el número de supervivientes no ha aumentado con el paso de los años, he podido ver que en ataques provocados el número de supervivientes si es mayor que en ataques no provocados, esto puede ser debido a tener un mayor control de la situación y no ser tan impredecible como en un ataque no provocado.
+Al finalizar el análisis con los datos obtenidos mi hipótesis se confirmae, dejando claro que el número de supervivientes ha aumentado con el paso de los años, he podido ver que en ataques provocados el número de supervivientes si es mayor que en ataques no provocados, esto puede ser debido a tener un mayor control de la situación y no ser tan impredecible como en un ataque no provocado.
