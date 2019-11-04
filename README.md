@@ -22,14 +22,18 @@ Con la hipótesis clara es el momento de empezar a crear gráficas que muestren 
 
 #### Supervivientes de ataques provocados y no provocados:
 Azul => Atacks 
+
 Naranja => Survivals-provoked 
+
 Verde => Survivals-unprovoked
 
 <p align="center"> <img  src="https://github.com/AlexMndzF/Project_Global-Shark-Attack/blob/master/src/Global%20shark_survivals-type.png"></p>
 
 #### Muertos de ataques provocados y no provocados:
 Azul => Atacks 
+
 Naranja => Fatals-provoked 
+
 Verde => Fatals-unprovoked
 
 <p align="center"> <img  src="https://github.com/AlexMndzF/Project_Global-Shark-Attack/blob/master/src/Global%20shark_fatals-type.png"></p>
@@ -38,7 +42,9 @@ Al ver estos datos me doy cuenta de que una gráfica con el número de ataques g
 
 #### Ataques globales con muertos y supervivientes:
 Azul => Total Ataks
+
 Naranja => Survivals
+
 Verde => Fatals 
 <p align="center"> <img  src="https://github.com/AlexMndzF/Project_Global-Shark-Attack/blob/master/src/Global%20shark_Totals.png"></p>
 
