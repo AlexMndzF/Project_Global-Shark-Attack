@@ -22,6 +22,8 @@ def removefinalcharacters(text):
         return text[0:(len(text)-1)]
     elif text[-1] == "?":
          return text[0:(len(text)-1)]
+    elif text[0] == " ":
+        return text[1:(len(text))]
     else:
         return text
 def ChangeType(text):
