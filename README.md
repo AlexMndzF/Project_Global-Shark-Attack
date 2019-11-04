@@ -10,7 +10,9 @@ Lo primero a realizar con el data set es analizar las columnas y ver las que tie
 Una vez eliminadas esas columnas, mi siguiente paso fue buscar series que pudiera categorizar fácilmente y pudieran darme datos de estos ataques, elegí las columnas de sexo, tipo de ataque y el desenlace del ataque. Estas series tenía valores con caracteres erróneos o categorías que no podía asignar al sexo de la persona que atacaban, tipo de ataque o desenlace. Limpie estos datos para reducirlo a las categorías mínimas que representasen las diferentes opciones que podían tomar:
 
    1.- Serie sexo: en esta serie partía de tener 6 posibles categorías, entre las que se incluían algunas correctas con caracteres añadidos al principio o final y otras que no correspondían a ningún sexo, para procesar todos esos datos decidí modificar los valores de las que podía incluir en categoría y las que no las cambie por unknown.
+   
    2.- Serie tipo de ataque: en esta serie veo dos grandes tipos de ataques, provocados y no provocados, para reducir las categorías, el resto las metí en una nueva categoría llamada otras.
+   
    3.- Serie desenlace: Al igual que en la serie anterior, el tipo de desenlace era claro, el afectado moría o sobrevivía. Por lo que limpie las categorías en las que había caracteres delante o detrás y las que no podía asignar a ninguna de esas las metí en unknown.
 
 Con estas series limpias y categorizadas el siguiente paso fue hacer un filtro primero por año, para evitar trabajar con ataques demasiado antiguos y poco documentados y empezar a buscar una hipótesis.
